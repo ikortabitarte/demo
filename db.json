@@ -5,9 +5,9 @@
     { "id": 3, "title": "Post 3" }
   ],
     "menuak": [
-    { "id": 1, "title": "Gosaria" },
-    { "id": 2, "title": "Bazkaria" },
-    { "id": 3, "title": "Afaria" }
+    { "id": 1, "izena": "Gosaria" },
+    { "id": 2, "izena": "Bazkaria" },
+    { "id": 3, "izena": "Afaria" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
