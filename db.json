@@ -5,9 +5,9 @@
     { "id": 3, "title": "Post 3" }
   ],
     "menuak": [
-    { "id": 1, "izena": "Gosaria" },
-    { "id": 2, "izena": "Bazkaria" },
-    { "id": 3, "izena": "Afaria" }
+    { "id": 1, "izena": "Gosaria", "aukerak": [{"1": "arraultzak"}, {"2": "tostadak"}, {"3": "kafea"}] },
+    { "id": 2, "izena": "Bazkaria", "aukerak": [{"1": "arraina"}, {"2": "entsalada"}, {"3": "indabak"}] },
+    { "id": 3, "izena": "Afaria", "aukerak": [{"1": "ogitartekoa"}, {"2": "tortila"}, {"3": "pintxoa"}] }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
