@@ -5,9 +5,21 @@
     { "id": 3, "title": "Post 3" }
   ],
     "menuak": [
-    { "id": 1, "izena": "Gosaria", "aukerak": [{"id": 1, "platera": "arraultzak"}, {"id": 2, "platera": "tostadak"}, {"id": 3, "platera": "kafea"}] },
-    { "id": 2, "izena": "Bazkaria", "aukerak": [{"id": 1, "platera": "arraina"}, {"id": 2, "platera": "entsalada"}, {"id": 3, "platera": "indabak"}] },
-    { "id": 3, "izena": "Afaria", "aukerak": [{"id": 1, "platera": "ogitartekoa"}, {"id": 2, "platera": "tortila"}, {"id":3, "platera": "pintxoa"}] }
+    { "id": 1, "izena": "Gosaria", "aukerak": [
+        {"id": 1, "platera": "arraultzak", "salneurria": 6, "kaloriak": 300}, 
+        {"id": 2, "platera": "tostadak", "salneurria": 4, "kaloriak": 250}, 
+        {"id": 3, "platera": "kafea", "salneurria": 2, "kaloriak": 100}
+    ] },
+    { "id": 2, "izena": "Bazkaria", "aukerak": [
+        {"id": 1, "platera": "arraina", "salneurria": 15, "kaloriak": 400}, 
+        {"id": 2, "platera": "entsalada", "salneurria": 11, "kaloriak": 150}, 
+        {"id": 3, "platera": "indabak", "salneurria": 12, "kaloriak": 350}
+    ] },
+    { "id": 3, "izena": "Afaria", "aukerak": [
+        {"id": 1, "platera": "ogitartekoa", "salneurria": 8, "kaloriak": 300}, 
+        {"id": 2, "platera": "tortila", "salneurria": 10, "kaloriak": 250}, 
+        {"id":3, "platera": "pintxoa", "salneurria": 3, "kaloriak": 150}
+    ] }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
