@@ -21,6 +21,9 @@
         {"id":3, "platera": "pintxoa", "salneurria": 3, "kaloriak": 150}
     ] }
   ],
+  "eskaerak": [
+    { "id": 1, "aukeraId": 1, "kopurua": 2 } 
+  ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
